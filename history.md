@@ -21,6 +21,4 @@ title: Employment and Education
 ## Funding and awards
 
 - EPSRC Doctoral Prize Fellowship for research on the categorical foundations of quantum transformations
-- Collaborative grant participation through the Without Spacetime consortium
-- Royal Society JSPS Postdoctoral Fellowship offered
-- Start-up support on taking a permanent position at CentraleSupelec / Universite Paris-Saclay
+- Member of the Without Spacetime consortium

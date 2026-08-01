@@ -3,8 +3,6 @@ layout: page
 title: Talks
 ---
 
-Video and slide links can be added here.
-
 ## Invited talks
 
 - "Theory and Applications of Categorical Supermaps", Higher-Order Quantum Structures Workshop (2025)

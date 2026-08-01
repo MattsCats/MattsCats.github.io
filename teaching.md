@@ -3,11 +3,6 @@ layout: page
 title: Teaching
 ---
 
-## Course preparation
-
-- Quantum computation, CentraleSupelec
-- GCSE Physics video course, SnapRevise
-
 ## Lecturing
 
 - Artificial Intelligence
@@ -35,7 +30,3 @@ title: Teaching
 - Supervision of the internship of Mohammed Boudjemaa, Universite Paris-Saclay
 - Co-supervision of the internship of Francois-Elie Ingwer, Universite Paris-Saclay
 - Co-supervision of the master's project of Kathleen Barsse, University of Oxford
-
-## Lecture notes
-
-Quantum computing lecture notes will be added here.

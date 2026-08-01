@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Matt Wilson
+title: ""
 ---
 
 <img src="/homepage-talk-screenshot.png" alt="Matt Wilson giving a talk" style="max-width: 760px; width: 100%; margin-bottom: 1rem;">
@@ -12,8 +12,6 @@ Assistant Professor in Computer Science
 CentraleSupelec, Universite Paris-Saclay  
 Paris, France  
 [matthew.wilson@centralesupelec.fr](mailto:matthew.wilson@centralesupelec.fr)
-
-## Synopsis
 
 Assistant Professor in Computer Science specialising in applied category theory and quantum foundations. My research develops categorical foundations for higher-order operations, with applications to quantum information theory, quantum causality, and the broader study of agent-environment interaction.
 
