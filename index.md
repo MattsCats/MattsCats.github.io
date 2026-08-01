@@ -11,7 +11,7 @@ title: ""
 Assistant Professor in Computer Science  
 CentraleSupelec, Universite Paris-Saclay  
 Paris, France  
-[matthew.wilson@centralesupelec.fr](mailto:firstname.lastname@centralesupelec.fr)
+firstname.lastname [at] centralesupelec.fr
 
 Assistant Professor in Computer Science specialising in applied category theory and quantum foundations. My research develops categorical foundations for higher-order operations and agent-environment interaction in finite dimensional quantum theory and beyond.
 
