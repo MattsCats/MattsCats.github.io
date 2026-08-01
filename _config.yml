@@ -1,0 +1,8 @@
+title: Matt Wilson
+description: Academic website
+theme: minima
+header_pages:
+  - research.md
+  - teaching.md
+  - talks.md
+  - history.md
