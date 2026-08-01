@@ -5,9 +5,13 @@ title: Research
 
 [Google Scholar](https://scholar.google.com/citations?user=yxBffXIAAAAJ&hl=en)
 
+## Media
+
+- [New Scientist article on "Decoherence to quantum theory from a causally indefinite post-quantum theory"](https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/)
+
 ## Publications
 
-1. J. Hefford, M. Wilson. ["Decoherence to quantum theory from a causally indefinite post-quantum theory"](https://journals.aps.org/pra/abstract/10.1103/kmmy-3dy3). *Physical Review A* 113, 042433 (2026). [New Scientist article](https://www.newscientist.com/article/2524032-qbox-theory-may-offer-glimpse-of-reality-deeper-than-quantum-realm/)
+1. J. Hefford, M. Wilson. ["Decoherence to quantum theory from a causally indefinite post-quantum theory"](https://journals.aps.org/pra/abstract/10.1103/kmmy-3dy3). *Physical Review A* 113, 042433 (2026).
 2. M. Wilson, G. Chiribella, A. Kissinger. ["Quantum Supermaps are Characterized by Locality"](https://quantum-journal.org/papers/q-2026-03-09-2013/). *Quantum* 10, 2013 (2026). [arXiv](https://arxiv.org/abs/2205.09844)
 3. J. Hefford, M. Wilson. ["A Profunctorial Semantics for Quantum Supermaps"](https://lics.siglog.org/archive/2024/HeffordWilson-AProfunctorialSeman.html). In *Proceedings of LICS* (2024). [arXiv](https://arxiv.org/abs/2402.02997)
 4. P. Arrighi, A. Durbec, M. Wilson. ["Quantum networks theory"](https://quantum-journal.org/papers/q-2024-10-23-1508/). *Quantum* 8, 1508 (2024). [arXiv](https://arxiv.org/abs/2110.10587)
