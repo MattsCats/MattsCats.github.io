@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-<img src="/homepage-talk-screenshot.png" alt="Matt Wilson giving a talk" style="max-width: 760px; width: 100%; margin-bottom: 1rem;">
+<img src="/matt_pic.png" alt="Matt Wilson" style="max-width: 760px; width: 100%; margin-bottom: 1rem;">
 
 [Download CV](./CV_Matt_Wilson-25.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=yxBffXIAAAAJ&hl=en)
